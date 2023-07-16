@@ -47,7 +47,7 @@ Step 4: Open the script "Main.py" in Visual Studio Code and change 3 directories
 	   SO FOR EXAMPLE USING THE 1ST ONE : 	
 	  
 	  # Load the image
-          image_path = "C:\\Users\\Monty's PC\\Desktop\\GitHub Julie2.0 Folder\\image.png"  # Replace with the path to your image file
+          image_path = "C:\\Users\\Monty's PC\\Desktop\\GitHub Julie2.0 Folder\\image.png"
           image = Image.open(image_path)
 
 
