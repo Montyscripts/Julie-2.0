@@ -8,8 +8,7 @@ Step 2: Install Python - https://www.python.org/
 
 Step 3: Install all dependencies needed for the script via "Install.bat" 
 
-Step 4: Open the script "Main.py" in Visual Studio Code and change 3 directories thats have to do with where the .png 
-files are located for the script's GUI. 
+Step 4: Open the script "Main.py" in Visual Studio Code and change 3 directories thats have to do with where the .png files are located for the script's GUI. 
 
                      
 
