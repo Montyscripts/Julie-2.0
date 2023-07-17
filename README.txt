@@ -2,13 +2,13 @@ Step 1: Create a OpenAPI Account To create Free API (Copy API KEY AFTER CREATING
 
 Step 2: Create a AWS Polly Key using AWS Amazon (Copy AWS Polly KEY AFTER CREATING ACCOUNT/ SAVE FOR LATER)- https://portal.aws.amazon.com/billing/signup?nc2=h_ct&src=header_signup&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start/email
 
-Step 2: Install Visual Studio Code - https://code.visualstudio.com/
+Step 3: Install Visual Studio Code - https://code.visualstudio.com/
 
-Step 2: Install Python - https://www.python.org/
+Step 4: Install Python - https://www.python.org/
 
-Step 3: Install all dependencies needed for the script via "Install.bat" 
+Step 5: Install all dependencies needed for the script via "Install.bat" 
 
-Step 4: Open the script "Main.py" in Visual Studio Code and change 3 directories thats have to do with where the .png files are located for the script's GUI. 
+Step 6: Open the script "Main.py" in Visual Studio Code and change 3 directories thats have to do with where the .png files are located for the script's GUI. 
 
                      
 
@@ -51,13 +51,13 @@ Step 4: Open the script "Main.py" in Visual Studio Code and change 3 directories
           image = Image.open(image_path)
 
 
-Step 5: Change the OpenAPI KEY to your OpenAPI KEY.
+Step 7: Change the OpenAPI KEY to your OpenAPI KEY.
 
         THAT PART OF THE SCRIPT LOOKS LIKE THIS 
 
         openai.api_key ="Open_API_KEY"
 
-Step 6: Change the AWS Polly KEY'S to your AWS Polly KEY'S.
+Step 8: Change the AWS Polly KEY'S to your AWS Polly KEY'S.
 	
 	THAT PART OF THE SCRIPT LOOKS LIKE THIS
 
@@ -66,13 +66,13 @@ Step 6: Change the AWS Polly KEY'S to your AWS Polly KEY'S.
         os.environ["AWS_SECRET_ACCESS_KEY"] = "AWS_SECRET_ACCESS_KEY"
         os.environ["AWS_REGION"] = "AWS_REGION"
 
-Step 7: Save The "Main.py" in Viusal Stuido Code to your Scripts Main folder. 
+Step 9: Save The "Main.py" in Viusal Stuido Code to your Scripts Main folder. 
 
-Step 8: Right click the "Main.py" Inside the scripts main folder and open with "Python". 
+Step 10: Right click the "Main.py" Inside the scripts main folder and open with "Python". 
 
-Step 9: If done correctly you should see my script and should be able to use it as intended. 
+Step 11: If done correctly you should see my script and should be able to use it as intended. 
 
-Step 10: If you like the script and find it useful please do not forget to buy me a beer :) 
+Step 12: If you like the script and find it useful please do not forget to buy me a beer :) 
 	
 	 by donating to my github page.
 
