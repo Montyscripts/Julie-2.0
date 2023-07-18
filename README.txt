@@ -8,6 +8,19 @@ Step 4: Install Python - https://www.python.org/
 
 Step 5: Install all dependencies needed for the script via "Install.bat" 
 
+	List of dependencies and modules you will need to run this script | 
+
+Run "CMD" as admin then type the pip install commands one by one, if the "install.bat" file did not work for you.
+
+        pip install tkinter
+        pip install pillow
+        pip install boto3
+        pip install pyautogui
+        pip install pygame
+        pip install pyttsx3
+        pip install SpeechRecognition
+        pip install openai
+
 Step 6: Open the script "Main.py" in Visual Studio Code and change 3 directories thats have to do with where the .png files are located for the script's GUI. 
 
                      
