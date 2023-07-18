@@ -22,6 +22,9 @@ Run "CMD" as admin then type the pip install commands one by one, if the "instal
         pip install openai
 	pip install pyaudio
 
+        
+Be sure to set your default web-browser as Microsoft Edge.
+
 Step 6: Open the script "Main.py" in Visual Studio Code and change 3 directories thats have to do with where the .png files are located for the script's GUI. 
 
                      
