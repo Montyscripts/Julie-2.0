@@ -35,7 +35,7 @@ image_path = "image.png"  # Replace with the path to your image file
 image = Image.open(image_path)
 
 # Resize the image to fit the window size
-image = image.resize((650, 450), Image.ANTIALIAS)
+image = image.resize((650, 450), Image.LANCZOS)
 
 # Convert the image to Tkinter-compatible format
 background_image = ImageTk.PhotoImage(image)
