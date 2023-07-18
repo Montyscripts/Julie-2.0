@@ -75,6 +75,9 @@ Step 11: If done correctly you should see my script and should be able to use it
 Step 12: If you like the script and find it useful please do not forget to buy me a beer :) 
 	
 	 by donating to my github page.
+Step 13: DO NOT FORGET TO SYNC YOUR WINDOWS SYSTEM CLOCK BY GOING TO WINDOWS SEARCH AND TYPING "TIME" 
+         
+         THEN CLICK ON "CHANGE TIME AND DATE" THEN CLICK ON "SYNC" AND YOUR ALL SET 
 
 SIDE NOTE: IF YOUR NOT USING A 1920x1080 DISPLAY PLEASE CHANGE THE X AND Y VAULES "(1128, 972)" 
 	   
