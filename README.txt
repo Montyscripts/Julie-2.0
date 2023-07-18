@@ -93,8 +93,8 @@ Step 13: DO NOT FORGET TO SYNC YOUR WINDOWS SYSTEM CLOCK BY GOING TO WINDOWS+SEA
          THEN CLICK ON "CHANGE TIME AND DATE" THEN CLICK ON "SYNC" AND YOUR ALL SET 
 
 SMALL SIDE NOTE : IF YOUR RUNNING INTO ANY ERRORS CHANGE THE 
-# Resize the image to fit the window size image = image.resize((650, 450), Image.ANTIALIAS) to 
-# Resize the image to fit the window size image = image.resize((650, 450), Image.LANCZOS) or vice versa.
+         image = image.resize((650, 450), Image.ANTIALIAS) to 
+         image = image.resize((650, 450), Image.LANCZOS) or vice versa.
 
 
 SIDE NOTE: IF YOUR NOT USING A 1920x1080 DISPLAY PLEASE CHANGE THE X AND Y VAULES "(1128, 972)" 
