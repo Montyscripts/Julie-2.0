@@ -36,6 +36,9 @@ pip install time
 REM Install openai
 pip install openai
 
+REM Install pyaudio
+pip install pyaudio
+
 REM Install threading
 pip install threading
 
