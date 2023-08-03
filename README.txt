@@ -1,11 +1,11 @@
-As of 8-2-23 There is a new form of this script with no need to use AWS Polly as I found a work around using a free alteritive
-that idolizes Microsoft TTS Voices. [IN this verison of the script you will no longer need to use AWS Polly for
+As of 8-2-23 There is a new form of this script with no need to use AWS Polly as I found a work around using a free alterative
+that idolizes Microsoft TTS Voices. [IN this version of the script you will no longer need to use AWS Polly for
 the TTS voice AKA MEANS YOU GET TO SKIP THE WHOLE CREATE AWS POLLY PART OF TUTORIAL
 which is great for us broke boy's with a broke boy wallet] :) 
 
-[Up above you will find a version of the orginal script but using Microsoft TTS Voices instead of AWS Polly called Julie+FreeTTS
+[Up above you will find a version of the original script but using Microsoft TTS Voices instead of AWS Polly called Julie+FreeTTS
 just open that with visual studio code and replace the OpenAPI with your OpenAPI Key then replace where the pictures are located at in the scripts
-directory follow Step 6: Open the script "Main.py" in Visual Studio Code and change 3 directories thats have to do with where the .png files 
+directory follow Step 6: Open the script "Main.py" in Visual Studio Code and change 3 directories that's have to do with where the .png files 
 are located for the script's GUI. .] LOOK AT TUTORIAL VIDEO IF YOU NEED HELP.
 
 [IF YOU DECEIDE TO USE THIS INSTEAD OF THE ORGINAL SETUP BE SURE TO DOWNLOAD THE UNITED KINGDOM TTS VOICES IN WINDOWS SETTINGS THEN SET TTS VOICE TO HAZEL.]
