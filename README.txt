@@ -113,7 +113,7 @@ def speak_text(text, rate=200, volume=1.0, pitch=160, desired_voice_id=None):
 # Call the speak_text function with the desired voice ID
 speak_text("Good evening, how may I be of service?", desired_voice_id="TTS_MS_EN-GB_HAZEL_11.0")
 
-openai.api_key ="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"
+openai.api_key ="openai.api_key"
 
 # Create a scrolled text box with purple background
 text_box = scrolledtext.ScrolledText(window, width=60, height=10, font=("Helvetica", 10), bg="black", fg="purple")
