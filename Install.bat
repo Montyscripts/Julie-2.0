@@ -45,5 +45,8 @@ pip install threading
 REM Install PIL
 pip install pillow
 
+REM Install gtts
+pip install gtts
+
 echo All modules have been installed.
 pause
